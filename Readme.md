@@ -1,4 +1,4 @@
-# Fix ubuntu source eoor
+# Fix ubuntu source error
 ```
 vim /etc/apt/source.list
 ```
